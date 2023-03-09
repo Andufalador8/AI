@@ -1,0 +1,15 @@
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\bin\Debug\net6.0\AI_lab_1.exe
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\bin\Debug\net6.0\AI_lab_1.deps.json
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\bin\Debug\net6.0\AI_lab_1.runtimeconfig.json
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\bin\Debug\net6.0\AI_lab_1.dll
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\bin\Debug\net6.0\AI_lab_1.pdb
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\obj\Debug\net6.0\AI_lab_1.csproj.AssemblyReference.cache
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\obj\Debug\net6.0\AI_lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\obj\Debug\net6.0\AI_lab_1.AssemblyInfoInputs.cache
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\obj\Debug\net6.0\AI_lab_1.AssemblyInfo.cs
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\obj\Debug\net6.0\AI_lab_1.csproj.CoreCompileInputs.cache
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\obj\Debug\net6.0\AI_lab_1.dll
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\obj\Debug\net6.0\refint\AI_lab_1.dll
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\obj\Debug\net6.0\AI_lab_1.pdb
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\obj\Debug\net6.0\AI_lab_1.genruntimeconfig.cache
+D:\Унік\Neuron\AI_lab_1\AI_lab_1\obj\Debug\net6.0\ref\AI_lab_1.dll
