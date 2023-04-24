@@ -1,0 +1,15 @@
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\bin\Debug\net6.0\Ai_lab3(2).exe
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\bin\Debug\net6.0\Ai_lab3(2).deps.json
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\bin\Debug\net6.0\Ai_lab3(2).runtimeconfig.json
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\bin\Debug\net6.0\Ai_lab3(2).dll
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\bin\Debug\net6.0\Ai_lab3(2).pdb
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\obj\Debug\net6.0\Ai_lab3(2).csproj.AssemblyReference.cache
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\obj\Debug\net6.0\Ai_lab3(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\obj\Debug\net6.0\Ai_lab3(2).AssemblyInfoInputs.cache
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\obj\Debug\net6.0\Ai_lab3(2).AssemblyInfo.cs
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\obj\Debug\net6.0\Ai_lab3(2).csproj.CoreCompileInputs.cache
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\obj\Debug\net6.0\Ai_lab3(2).dll
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\obj\Debug\net6.0\refint\Ai_lab3(2).dll
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\obj\Debug\net6.0\Ai_lab3(2).pdb
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\obj\Debug\net6.0\Ai_lab3(2).genruntimeconfig.cache
+D:\uni\Neuron\Ai\AI\Ai_lab3(2)\Ai_lab3(2)\obj\Debug\net6.0\ref\Ai_lab3(2).dll

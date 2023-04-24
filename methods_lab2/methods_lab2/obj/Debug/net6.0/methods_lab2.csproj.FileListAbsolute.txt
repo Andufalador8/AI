@@ -1,0 +1,15 @@
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\bin\Debug\net6.0\methods_lab2.exe
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\bin\Debug\net6.0\methods_lab2.deps.json
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\bin\Debug\net6.0\methods_lab2.runtimeconfig.json
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\bin\Debug\net6.0\methods_lab2.dll
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\bin\Debug\net6.0\methods_lab2.pdb
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\obj\Debug\net6.0\methods_lab2.csproj.AssemblyReference.cache
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\obj\Debug\net6.0\methods_lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\obj\Debug\net6.0\methods_lab2.AssemblyInfoInputs.cache
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\obj\Debug\net6.0\methods_lab2.AssemblyInfo.cs
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\obj\Debug\net6.0\methods_lab2.csproj.CoreCompileInputs.cache
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\obj\Debug\net6.0\methods_lab2.dll
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\obj\Debug\net6.0\refint\methods_lab2.dll
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\obj\Debug\net6.0\methods_lab2.pdb
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\obj\Debug\net6.0\methods_lab2.genruntimeconfig.cache
+D:\uni\Neuron\Ai\AI\methods_lab2\methods_lab2\obj\Debug\net6.0\ref\methods_lab2.dll

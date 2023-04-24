@@ -13,3 +13,10 @@ D:\uni\Neuron\Ai\AI\AI_lab2\AI_lab2\obj\Debug\net6.0\refint\AI_lab2.dll
 D:\uni\Neuron\Ai\AI\AI_lab2\AI_lab2\obj\Debug\net6.0\AI_lab2.pdb
 D:\uni\Neuron\Ai\AI\AI_lab2\AI_lab2\obj\Debug\net6.0\AI_lab2.genruntimeconfig.cache
 D:\uni\Neuron\Ai\AI\AI_lab2\AI_lab2\obj\Debug\net6.0\ref\AI_lab2.dll
+D:\uni\Neuron\Ai\AI\AI_lab2\AI_lab2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\uni\Neuron\Ai\AI\AI_lab2\AI_lab2\bin\Debug\net6.0\ScottPlot.dll
+D:\uni\Neuron\Ai\AI\AI_lab2\AI_lab2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\uni\Neuron\Ai\AI\AI_lab2\AI_lab2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\uni\Neuron\Ai\AI\AI_lab2\AI_lab2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\uni\Neuron\Ai\AI\AI_lab2\AI_lab2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\uni\Neuron\Ai\AI\AI_lab2\AI_lab2\obj\Debug\net6.0\AI_lab2.csproj.CopyComplete

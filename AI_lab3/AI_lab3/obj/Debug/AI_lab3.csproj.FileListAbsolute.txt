@@ -1,0 +1,11 @@
+D:\uni\Neuron\Ai\AI\AI_lab3\AI_lab3\bin\Debug\AI_lab3.exe.config
+D:\uni\Neuron\Ai\AI\AI_lab3\AI_lab3\bin\Debug\AI_lab3.exe
+D:\uni\Neuron\Ai\AI\AI_lab3\AI_lab3\bin\Debug\AI_lab3.pdb
+D:\uni\Neuron\Ai\AI\AI_lab3\AI_lab3\obj\Debug\AI_lab3.csproj.AssemblyReference.cache
+D:\uni\Neuron\Ai\AI\AI_lab3\AI_lab3\obj\Debug\AI_lab3.csproj.SuggestedBindingRedirects.cache
+D:\uni\Neuron\Ai\AI\AI_lab3\AI_lab3\obj\Debug\AI_lab3.Form1.resources
+D:\uni\Neuron\Ai\AI\AI_lab3\AI_lab3\obj\Debug\AI_lab3.Properties.Resources.resources
+D:\uni\Neuron\Ai\AI\AI_lab3\AI_lab3\obj\Debug\AI_lab3.csproj.GenerateResource.cache
+D:\uni\Neuron\Ai\AI\AI_lab3\AI_lab3\obj\Debug\AI_lab3.csproj.CoreCompileInputs.cache
+D:\uni\Neuron\Ai\AI\AI_lab3\AI_lab3\obj\Debug\AI_lab3.exe
+D:\uni\Neuron\Ai\AI\AI_lab3\AI_lab3\obj\Debug\AI_lab3.pdb

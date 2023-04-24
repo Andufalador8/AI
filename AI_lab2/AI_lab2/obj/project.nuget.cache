@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "5wKPlZmDV5+vgkX2LOJYz86Sgp166yce+3aWSvjU+ti2bec9X678IOHPw23qcsXtfjOdaJm6q7rpED0J97JLSg==",
+  "dgSpecHash": "afrRjt4ns8aX2d1i6PJnpHPEpvhLzY04cZjOtr+ZaUNwY381Q+GI40MFn6tqZ5lgqnrzzUsCqztB2W35ayeQeA==",
   "success": true,
   "projectFilePath": "D:\\uni\\Neuron\\Ai\\AI\\AI_lab2\\AI_lab2\\AI_lab2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\scottplot\\4.1.61\\scottplot.4.1.61.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

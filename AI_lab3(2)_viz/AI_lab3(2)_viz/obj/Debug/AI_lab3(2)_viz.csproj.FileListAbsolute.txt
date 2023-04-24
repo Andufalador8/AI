@@ -1,0 +1,11 @@
+D:\uni\Neuron\Ai\AI\AI_lab3(2)_viz\AI_lab3(2)_viz\obj\Debug\AI_lab3(2)_viz.csproj.AssemblyReference.cache
+D:\uni\Neuron\Ai\AI\AI_lab3(2)_viz\AI_lab3(2)_viz\obj\Debug\AI_lab3(2)_viz.csproj.SuggestedBindingRedirects.cache
+D:\uni\Neuron\Ai\AI\AI_lab3(2)_viz\AI_lab3(2)_viz\obj\Debug\AI_lab3_2__viz.Form1.resources
+D:\uni\Neuron\Ai\AI\AI_lab3(2)_viz\AI_lab3(2)_viz\obj\Debug\AI_lab3_2__viz.Properties.Resources.resources
+D:\uni\Neuron\Ai\AI\AI_lab3(2)_viz\AI_lab3(2)_viz\obj\Debug\AI_lab3(2)_viz.csproj.GenerateResource.cache
+D:\uni\Neuron\Ai\AI\AI_lab3(2)_viz\AI_lab3(2)_viz\obj\Debug\AI_lab3(2)_viz.csproj.CoreCompileInputs.cache
+D:\uni\Neuron\Ai\AI\AI_lab3(2)_viz\AI_lab3(2)_viz\bin\Debug\AI_lab3(2)_viz.exe.config
+D:\uni\Neuron\Ai\AI\AI_lab3(2)_viz\AI_lab3(2)_viz\bin\Debug\AI_lab3(2)_viz.exe
+D:\uni\Neuron\Ai\AI\AI_lab3(2)_viz\AI_lab3(2)_viz\bin\Debug\AI_lab3(2)_viz.pdb
+D:\uni\Neuron\Ai\AI\AI_lab3(2)_viz\AI_lab3(2)_viz\obj\Debug\AI_lab3(2)_viz.exe
+D:\uni\Neuron\Ai\AI\AI_lab3(2)_viz\AI_lab3(2)_viz\obj\Debug\AI_lab3(2)_viz.pdb
