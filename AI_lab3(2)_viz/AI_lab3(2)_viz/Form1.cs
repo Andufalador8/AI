@@ -29,7 +29,7 @@ namespace AI_lab3_2__viz
                 {
                     for (int k = 0; k < 2; k++)
                     {
-                        points[i, k] = GetRandomNumber(500, 600, random);
+                        points[i, k] = GetRandomNumber(600, 700, random);
                     }
                 }
             }
@@ -39,7 +39,7 @@ namespace AI_lab3_2__viz
                 {
                     for (int k = 0; k < 2; k++)
                     {
-                        points[i, k] = GetRandomNumber(200, 300, random);
+                        points[i, k] = GetRandomNumber(400, 500, random);
                     }
                 }
             }
